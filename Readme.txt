@@ -1,4 +1,3 @@
-This project used in CNU syspro03 class.
-The master is 201304198 WonHo Park.
+this project used in CNU syspro03 class.
 
-2015.09.24
+master is 201304198 WonHo Park.
